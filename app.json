@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ControlDeHorarioAndroid",
+    "name": "Control de Horario",
     "slug": "ControlDeHorarioAndroid",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0D1F2D"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.elchinopiojoso.ControlDeHorarioAndroid"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8241d132-ccb4-42e4-9f4e-5e4fb59e8a8d"
+      }
     }
   }
 }
