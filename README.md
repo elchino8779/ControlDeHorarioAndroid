@@ -27,6 +27,7 @@
         🔸 Carga de valor por hora trabajada <br>
         🔸 Retorna un valor estimado de la remuneración bruta a cobrar <br>
         🔸 Horas normales, al 50% y al 100% <br>
+        🔸 Autoguardado de dias y horarios en el dispositivo <br>
     </p>
 </div>
 
